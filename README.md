@@ -3,6 +3,7 @@ Online 4 weeks Virtual Internship on Data Science[30Aug-30Sept]
 
 
 Internship Overview
+
 During my virtual internship, I had the opportunity to work on several data analysis projects, where I was able to apply statistical methods, data visualization techniques, and machine learning models to real-world datasets. The internship provided hands-on experience in using tools like Python, Pandas, Seaborn, Matplotlib, and other libraries to analyze large datasets and extract meaningful insights.
 
 Project 1: Sales Analysis:
